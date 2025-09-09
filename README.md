@@ -21,5 +21,15 @@ Our central hypothesis:
   - Correlation and regression analysis  
   - ANOVA testing for predictor significance  
 
-## Repository Structure
+## Future Directions
+- Expand analysis to account for **team skill disparities** and **match competitiveness**.  
+- Explore non-linear models and interaction effects between serving variables.  
+- Apply findings to **coaching strategies** for balancing risk/reward in serving.  
+
+## Authors
+- **Eric Geisler**  
+- **Daniel Hrusovsky**  
+(John Carroll University, 2024)
+
+---
 

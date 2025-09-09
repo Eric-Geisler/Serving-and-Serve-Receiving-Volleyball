@@ -10,7 +10,7 @@ Our central hypothesis:
 - **Service aces** are the strongest positive predictor of sets won.  
 - **Service errors** surprisingly show a positive relationship with winning — suggesting aggressive serving strategies may outweigh the risks.  
 - **Opponent aces** strongly decrease the likelihood of winning sets.  
-- **Opponent errors** have a minor but significant positive effect on winning.  
+- **Opponent errors** have a minor but positive effect on winning.  
 - Regression models explain ~27% of the variance in sets won, both overall and within NCAA Division III matches.
 
 ## Methods
